@@ -12,3 +12,4 @@ with open("assets/detail.csv", "r") as f:
     # Parsing through the data and printing each object of the csv file.
     for i in data:
         print(i)
+# end
