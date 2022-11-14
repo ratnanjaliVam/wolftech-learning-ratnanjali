@@ -9,3 +9,4 @@ readingFile = file1.read()
 # Printing the contents of the file which is read.
 print(readingFile)
 file1.close()
+
